@@ -1,0 +1,19 @@
+{
+    "name": "afiliadosb2w-api",
+    "version": "0.0.1",
+    "description": "API integration with Afiliados B2W",
+    "author": "André Ferreira <andrehrf@gmail.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andrehrf/afiliadosb2w-api-nodejs"
+    },
+    "bugs": {
+        "url": "https://github.com/andrehrf/afiliadosb2w-api-nodejs/issues"
+    },
+    "homepage": "https://github.com/andrehrf/afiliadosb2w-api-nodejs",
+    "dependencies": {
+        "request": "^2.72.0",
+        "cheerio": "^0.22.0"
+    }
+}
